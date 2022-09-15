@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbuAzmy, a webdeveloper and a student that is looking forward
 - 👀 I’m interested in MachineLearning and CyperSecurity
-- 🌱 I’m currently learning [NeuralNetqorks] advanced
+- 🌱 I’m currently learning NeuralNetworks advanced
 - 📫 How to reach me [facebook](https://www.facebook.com/profile.php?id=100078502215093) [whatsapp](https://wa.me/+201201590033?text=say-hi)
 
 <!---
