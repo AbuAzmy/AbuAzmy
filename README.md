@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AbuAzmy
+- 👋 Hi, I’m @AbuAzmy, a webdeveloper and a student that is looking forward
 - 👀 I’m interested in MachineLearning and CyperSecurity
 - 🌱 I’m currently learning [NeuralNetqorks] advanced
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [facebook](https://www.facebook.com/profile.php?id=100078502215093)
+- 📫 How to reach me [facebook](https://www.facebook.com/profile.php?id=100078502215093) [whatsapp](https://wa.me/+201201590033?text=say-hi)
 
 <!---
 AbuAzmy/AbuAzmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
